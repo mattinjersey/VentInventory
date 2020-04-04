@@ -6,10 +6,13 @@ author_profile: true
 ---
 
 Ventilator Data
-#  {% for block in site.data.VentilatorList_ByState.VentList %}
-#        State:  {{ block.state }}
-#        numVentilators:  {{ block.numVentilators }}
-#        Data Source:  {{ block.source }}
-#        Last Updated:  {{ block.lastUpdated }}
-#
-#  {% endfor %}
+
+  state: Alabama
+  numVentilators: 0
+  source:
+  lastUpdated:
+
+  state: Alaska
+  numVentilators: 0
+  source:
+  lastUpdated:
