@@ -10,7 +10,7 @@ header:
   {% for block in site.data.VentilatorList_ByState.VentList %}
       <li>
           {{ block.state }}...
-          {{ block.numVentilators }}<br>
+          {{ block.numVentilators }}...
           Source: {{block.source}}
       </li>
   {% endfor %}
