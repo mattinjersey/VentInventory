@@ -1,81 +1,81 @@
 VentList:
-  -state: Alabama
-   numVentilators: 0
-   source:
-   lastUpdated:
-  -state: Alaska
-   numVentilators: 0
-   source:
-   lastUpdated:
-  -state: Arizona
-   numVentilators: 0
-   source:
-   lastUpdated:
-  -state: Arkansas
-   numVentilators: 0
-   source:
-   lastUpdated:
-  -state: California
-   numVentilators: 0
-   source:
-   lastUpdated:
-  -state: Colorado
-   numVentilators: 0
-   source:
-   lastUpdated:
-  -state: Connecticut
-   numVentilators: 0
-   source:
-   lastUpdated:
-  -state: Delaware
-   numVentilators: 0
-   source:
-   lastUpdated:
-  -state: Florida
-   numVentilators: 0
-   source:
-   lastUpdated:
-  -state: Georgia
-   numVentilators: 0
-   source:
-   lastUpdated:
-  -state: Hawaii
-   numVentilators: 0
-   source:
-   lastUpdated:
-  -state: Idaho
-   numVentilators: 0
-   source:
-   lastUpdated:
-  -state: Kansas
-   numVentilators: 0
-   source:
-   lastUpdated:
-  -state: Kentucky
-   numVentilators: 0
-   source:
-   lastUpdated:
-  -state: Louisiana
-   numVentilators: 0
-   source:
-   lastUpdated:
-  -state: Maine
-   numVentilators: 0
-   source:
-   lastUpdated:
-  -state: Maryland
-   numVentilators: 0
-   source:
-   lastUpdated:
-  -state: Massachusetts
-   numVentilators: 0
-   source:
-   lastUpdated:      
-  -state: Michigan
-   numVentilators: 0
-   source:
-   lastUpdated:
-  -state: Mississippi
-   numVentilators: 0
-   source:
-   lastUpdated:
+  - state: Alabama
+    numVentilators: 0
+    source:
+    lastUpdated:
+  - state: Alaska
+    numVentilators: 0
+    source:
+    lastUpdated:
+  - state: Arizona
+    numVentilators: 0
+    source:
+    lastUpdated:
+  - state: Arkansas
+    numVentilators: 0
+    source:
+    lastUpdated:
+  - state: California
+    numVentilators: 0
+    source:
+    lastUpdated:
+  - state: Colorado
+    numVentilators: 0
+    source:
+    lastUpdated:
+  - state: Connecticut
+    numVentilators: 0
+    source:
+    lastUpdated:
+  - state: Delaware
+    numVentilators: 0
+    source:
+    lastUpdated:
+  - state: Florida
+    numVentilators: 0
+    source:
+    lastUpdated:
+  - state: Georgia
+    numVentilators: 0
+    source:
+    lastUpdated:
+  - state: Hawaii
+    numVentilators: 0
+    source:
+    lastUpdated:
+  - state: Idaho
+    numVentilators: 0
+    source:
+    lastUpdated:
+  - state: Kansas
+    numVentilators: 0
+    source:
+    lastUpdated:
+  - state: Kentucky
+    numVentilators: 0
+    source:
+    lastUpdated:
+  - state: Louisiana
+    numVentilators: 0
+    source:
+    lastUpdated:
+  - state: Maine
+    numVentilators: 0
+    source:
+    lastUpdated:
+  - state: Maryland
+    numVentilators: 0
+    source:
+    lastUpdated:
+  - state: Massachusetts
+    numVentilators: 0
+    source:
+    lastUpdated:
+  - state: Michigan
+    numVentilators: 0
+    source:
+    lastUpdated:
+  - state: Mississippi
+    numVentilators: 0
+    source:
+    lastUpdated:
