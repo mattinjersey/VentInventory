@@ -6,7 +6,12 @@ header:
  image: "/images/Vent2.jpg"
 ---
 
-| State |  Number ventilators |
+<ul>
   {% for block in site.data.VentilatorList_ByState.VentList %}
-      |{{ block.state }}|  {{ block.numVentilators }}|
+      <li>
+          {{ block.state }}...
+          {{ block.numVentilators }}<br>
+          Source: {{block.source}}
+      </li>
   {% endfor %}
+</ul>
