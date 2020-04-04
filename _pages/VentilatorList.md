@@ -4,3 +4,23 @@ permalink: /VentilatorList/
 title: "Ventilator Data by State"
 author_profile: true
 ---
+<ul class=”job-listing">
+  {% for block in site.data.VentilatorList_ByState.VentList %}
+    <a href=”{{ block.url | prepend: site.baseurl }}”>
+      <li>
+        <div class=”state">
+          {{ block.state }}
+        </div>
+        <div class=”numVentilators">
+          {{ block.numVentilators }}
+        </div>
+        <div class=”source">
+          {{ block.source }}
+        </div>
+        <div class=”lastUpdated">
+          {{ block.lastUpdated }}
+        </div>
+      </li>
+    </a>
+  {% endfor %}
+</ul>
