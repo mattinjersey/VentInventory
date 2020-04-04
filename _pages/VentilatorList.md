@@ -4,7 +4,7 @@ permalink: /VentilatorList/
 title: "Ventilator Data by State"
 author_profile: true
 ---
-<ul class=”job-listing">
+<ul>
   {% for block in site.data.VentilatorList_ByState.VentList %}
     <a href=”{{ block.url | prepend: site.baseurl }}”>
       <li>
