@@ -3,7 +3,7 @@ layout: archive
 title: "About"
 permalink: /about/
 header:
- image: "/images/Vent1.jpg"
+ image: "/images/Vent2.jpg"
 ---
 
 This website is designed to show the number of ventilators in each state.
