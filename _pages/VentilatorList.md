@@ -11,6 +11,8 @@ header:
       <li>
           {{ block.state }}...
           {{ block.numVentilators }}
+
+          Source: {{block.source}}
       </li>
   {% endfor %}
 </ul>
