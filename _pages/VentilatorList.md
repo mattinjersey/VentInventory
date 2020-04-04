@@ -6,8 +6,15 @@ header:
  image: "/images/Vent2.jpg"
 ---
 
-This website is designed to show the number of ventilators in each state.
-It would enable states to share ventilators properly.
-Open-source project, non-profit.
-We welcome your help.
-Email to mattinjersey@yahoo.com .
+<ul class=”VentList">
+  {% for block in site.data.VentialatorList_ByState.VentList %}
+      <li>
+        <div class=”state">
+          {{ block.state }}
+        </div>
+        <div class=”numVentilators">
+          {{ block.numVentilators }}
+        </div>
+      </li>
+  {% endfor %}
+</ul>
